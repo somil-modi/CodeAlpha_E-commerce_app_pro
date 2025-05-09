@@ -1,1 +1,1 @@
-# CodeAlpha_Event_management_system
+# CodeAlpha_E_commerce_app
